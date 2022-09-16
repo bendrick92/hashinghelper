@@ -1,0 +1,7 @@
+{
+    "name": "met-hash-helper",
+    "version": "0.1.0",
+    "dependencies": {
+        "hashids": "^2.2.10"
+    }
+}
